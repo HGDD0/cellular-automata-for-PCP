@@ -18,6 +18,7 @@ For each Cell object, it got its **position(x,y)** and **other attributes**(TFs 
 The Playground class handles the upgrading of each step by **hulahula()**, and to provide information for any action involving more than one cell. **update_state()** contains rules of CA.
   
 For now, the only rule is if there is an empty space, then the cell divide. If not, it remains to the next upgrade.
+
 ----
 
-CA_hex_none_divide.py
+Note for CA_hex_none_divide.py
