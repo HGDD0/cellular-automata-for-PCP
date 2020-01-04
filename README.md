@@ -19,3 +19,5 @@ The Playground class handles the upgrading of each step by **hulahula()**, and t
   
 For now, the only rule is if there is an empty space, then the cell divide. If not, it remains to the next upgrade.
 ----
+
+CA_hex_none_divide.py
